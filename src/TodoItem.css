@@ -1,0 +1,25 @@
+span{
+    margin: 15px;
+}
+
+button{
+    height: 25px;
+}
+
+
+
+
+input[type="checkbox"] {
+    transform: scale(2); /* 1.5 scales the checkbox size */
+    vertical-align: middle;
+  }
+
+label{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+
+  
